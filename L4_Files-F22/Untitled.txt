@@ -1,0 +1,38 @@
+37.true
+36.false
+35.true
+34.b
+33.false
+32.b
+31.global warming: the global temperature rise, which is one spect of climate change
+climate change:the global climate is changing over time
+30.false
+29.c
+28.a
+27.true
+26.transform
+25.d
+24.d
+23.c
+22.weather,weather,climate,climate
+21.a,c,e,f
+20.d
+19.a
+18.b,c,d,e
+17.d
+16.a
+15.1,1,2,2,2,2
+14.b
+13.b
+12.a
+11.5,3,1,2
+10.false
+9.c
+8.plate A
+7.b
+6.c
+5.convergent
+4.1,6,5,2,4,3
+3.b
+2.e
+1.c,d
